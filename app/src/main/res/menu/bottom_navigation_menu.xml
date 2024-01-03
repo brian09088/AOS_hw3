@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_aqi"
+        android:title="AQI"
+        android:icon="@drawable/ic_aqi"/>
+
+    <item
+        android:id="@+id/menu_uv"
+        android:title="UV"
+        android:icon="@drawable/ic_uv" />
+
+    <item
+        android:id="@+id/menu_sunrise_sunset"
+        android:title="sunset"
+        android:icon="@drawable/ic_sunset"/>
+
+    <item
+        android:id="@+id/menu_memo"
+        android:title="memo"
+        android:icon="@drawable/ic_memo"/>
+</menu>
